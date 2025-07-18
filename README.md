@@ -135,8 +135,8 @@ https://github.com/user-attachments/assets/a88faef8-e433-46b3-a752-1f677d68cb98
 | 파일명 | 설명 |
 |--------|------|
 | `main.cpp` | 전체 시스템 로직 실행 |
-| `Motor.h / Motor.cpp` | 모터 PWM 속도 및 방향 제어 |
-| `Servo.h / Servo.cpp` | 조향 각도 제어 |
+| `Motor.*` | 모터 PWM 속도 및 방향 제어 |
+| `Servo.*` | 조향 각도 제어 |
 | `SpeedController.*` | PID 제어기 |
 | `LaneSensor.*` | IR 라인 센서 처리 |
 | `DistanceSensor.*` | PSD 거리 센서 측정 및 필터링 |
