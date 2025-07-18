@@ -147,7 +147,7 @@ https://github.com/user-attachments/assets/a88faef8-e433-46b3-a752-1f677d68cb98
 
 ## ⚠️ 주의사항
 
-- 코드 상의 `#define FORWARD 'f'` / `#define BACKWARD 'b'` 정의는 **모터 드라이버 기준 전기적 방향**입니다.
+- 코드 상의 `#define FORWARD 'f'` / `#define BACKWARD 'b'` 정의는 **모터 드라이버 기준 전기적 방향**
   - 실제 차량 기준으로는:
     - `FORWARD` → **후진**
     - `BACKWARD` → **전진**
